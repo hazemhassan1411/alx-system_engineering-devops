@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo put commit name
+
+read
+
+git add .
+git commit -m "c"
+git push
